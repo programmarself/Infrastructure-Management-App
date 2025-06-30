@@ -108,7 +108,7 @@ st.markdown("""
     }
     </style>
     <div class="footer">
-      <p>&copy; 2025 Concrete Curing App | All rights reserved</p>
+      <p>&copy; 2025 Smart Infrastructure Management System | All rights reserved</p>
       <p><strong>Developed with ❤️ by Irfan Ullah Khan</strong></p>
       <div class="social-icons">
         <a href="https://github.com/programmarself" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
