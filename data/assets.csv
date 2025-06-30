@@ -1,0 +1,4 @@
+AssetID,AssetName,Type,Location,Condition,LastMaintenance
+1,Bridge A,Bridge,City A,Good,2025-01-15
+2,Road B,Road,City B,Fair,2025-02-20
+3,Pipeline C,Pipeline,City C,Poor,2025-03-10
