@@ -8,9 +8,9 @@ Welcome to the **Smart Infrastructure Management System (SIMS)** – a modern, u
 ---
 
 ## 📌 Live Demo
-👉 [Click here to View the App Live](https://your-streamlit-app-link)
+🔗 [Live App Demo](https://infrastructure-management-app.streamlit.app/)
 
-*(Update this link after deployment to Streamlit Cloud)*
+
 
 ---
 
@@ -22,19 +22,21 @@ Welcome to the **Smart Infrastructure Management System (SIMS)** – a modern, u
 - 🗂️ **Multi-Page Navigation:** Seamless transition between Dashboard, Assets, Maintenance, Reports, and About sections.
 - ✅ **Simple & Responsive Design:** Built with Streamlit for speed and simplicity.
 
----
 
 
 
 
 
----
-
+-------------------------------------------------------------------------------------------------------------------
 © 2025 Smart Infrastructure Management System (SIMS) | All rights reserved
+<h2 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻 By: Irfan Ullah Khan</h2>
 
-**Developed with ❤️ by Irfan Ullah Khan**
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/programmarself) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/programmarself) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irfan-ullah-khan-4a2871208/)  
 
-[GitHub](https://github.com/programmarself) | 
-[LinkedIn](https://www.linkedin.com/in/iukhan/) | 
-[Portfolio](https://programmarself.github.io/My_Portfolio/) | 
-[Email](mailto:programmarself@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@irfanullahkhan7748) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:programmarself@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Contact%20Me-red?style=for-the-badge&logo=website)]([https://programmarself.github.io/My_Portfolio/(https://programmarself.github.io/My_Portfolio/))
+
+
