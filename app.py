@@ -82,3 +82,39 @@ elif page == "About":
     st.write('This Smart Infrastructure Management System helps in tracking assets, managing maintenance, and visualizing asset performance.')
     st.write('Developed by: Irfan Ullah Khan')
     st.write('Contact: [GitHub](https://github.com/programmarself) | [LinkedIn](https://www.linkedin.com/in/iukhan/)')
+    # Footer with Font Awesome icons
+st.markdown("---")
+st.markdown("""
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+    .social-icons {
+        margin: 20px 0;
+    }
+    .social-icons a {
+        margin: 0 10px;
+        color: #1E90FF;
+        font-size: 24px;
+        transition: color 0.3s, transform 0.3s;
+        text-decoration: none;
+    }
+    .social-icons a:hover {
+        color: #FF4500;
+        transform: scale(1.2);
+    }
+    .footer {
+        text-align: center;
+        font-size: 16px;
+        padding: 20px 0;
+    }
+    </style>
+    <div class="footer">
+      <p>&copy; 2025 Concrete Curing App | All rights reserved</p>
+      <p><strong>Developed with ❤️ by Irfan Ullah Khan</strong></p>
+      <div class="social-icons">
+        <a href="https://github.com/programmarself" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/iukhan/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://programmarself.github.io/My_Portfolio/" target="_blank" title="Portfolio"><i class="fas fa-briefcase"></i></a>
+        <a href="mailto:programmarself@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+""", unsafe_allow_html=True)
